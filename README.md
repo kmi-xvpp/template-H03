@@ -1,4 +1,4 @@
-# L07E02: Data 3
+# H03: Data 3
 Balíček `data` z minulého semináře rozšiřte o následující funkcionalitu. Ve zdrojovém kódu urdžujte pořádek a metody seskupujte dle významu.
 
 Kdekoli je ve stávájícím kódu možné a vhodné `for` cyklus přepsat pomoci comprehension, to udělejte.
